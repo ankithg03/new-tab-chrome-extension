@@ -52,4 +52,4 @@ const data = {
 }
 ```
 
-![image info](https://lh3.googleusercontent.com/drive-viewer/AKGpihabjU1YpJ80jrfy0rdzsidq8mwNAqMqCxPoKZIZzT9zOn8PGZvk8ajGgs8miQugNoA4KZ4z5QZMNPJTj7JhybRV_-pHOA=w3584-h1846) # new-tab-chrome-extension
+![image info](https://github.com/ankithg03/new-tab-chrome-extension/blob/main/src/Screenshot%202024-03-15%20at%2012.12.44%20AM.png?raw=true) # new-tab-chrome-extension
